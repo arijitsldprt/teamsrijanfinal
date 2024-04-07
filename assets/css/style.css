@@ -140,6 +140,9 @@ footer a{
     header{
         background: url(../images/header-bg-right.webp) right / contain no-repeat #B71C1C;
     }
+    .carousel-inner{
+        height:35vh;
+    }
 }
 @media screen and (max-width: 767.98px){
     header{
